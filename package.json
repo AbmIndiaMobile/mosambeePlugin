@@ -1,0 +1,25 @@
+{
+  "name": "mosambeePlugin",
+  "version": "0.1.0",
+  "description": "mosambee payment",
+  "cordova": {
+    "id": "cordova-plugin-mosambeePlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbmIndiaMobile/Mosambee.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Abm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbmIndiaMobile/Mosambee/issues"
+  },
+  "homepage": "https://github.com/AbmIndiaMobile/Mosambee#readme"
+}
