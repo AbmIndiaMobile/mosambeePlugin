@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" 
 xmlns:android="http://schemas.android.com/apk/res/android"
- id="cordova-plugin-mosambeePlugin" 
+ id="cordova-plugin-mosambeeplugin" 
  version="0.1.0">
-   <name>mosambeePlugin</name>
-   <js-module name="mosambeePlugin" src="www/mosambee.js">
-      <clobbers target="mosambeePlugin" />
-      <clobbers target="mosambeePlugin" />
+   <name>mosambeeplugin</name>
+   <js-module name="mosambeeplugin" src="www/mosambee.js">
+      <clobbers target="mosambeeplugin" />
+      <clobbers target="mosambeeplugin" />
    </js-module>
    <platform name="android">
       <config-file parent="/*" target="res/xml/config.xml">
